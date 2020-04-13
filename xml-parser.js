@@ -5,8 +5,10 @@ let lexical = [];
 let lexical_pointer = -1;
 let syntax = [];
 let syntax_pointer = -1;
+
 let alphanumeric_input = '';
 let keyboard_input = '';
+
 let not_valid = false;
 let is_attribute_value = false;
 let is_closing_tag = false;
